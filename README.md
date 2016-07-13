@@ -1,6 +1,6 @@
 # Topix
 
-Topix is an iMessage extension ([a real thing in the upcoming iOS 10!](https://developer.apple.com/imessage/)) that will allow users to save important text messages into topics to refer to later. Forget the hassle of scrolling through endless texts just to find that single one with important information, and forget or screenshotting your iMessages bunch of times just to keep those few important texts available for future reference.
+Topix is an iMessage extension ([a real thing in the upcoming iOS 10!](https://developer.apple.com/imessage/)) that will allow users to save important text messages into topics to refer to later. Forget the hassle of scrolling through endless texts just to find that single one with important information, and forget screenshotting your iMessages a bunch of times just to keep those few important texts available for future reference.
 
 ## Why Topix?
 
